@@ -1,0 +1,159 @@
+        body{
+          background-image: url(https://images.unsplash.com/photo-1624139283061-adee53a59791?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YmxhY2slMjBncmFkaWVudHxlbnwwfHwwfHw%3D&w=1000&q=80);
+          background-repeat:repeat-y;
+          background-position: center center;
+          background-size: cover;
+        }
+        .navbar{
+            /* border: 2px solid black; */
+            height: 45px;
+            background-color: #1f1405;
+            border-radius: 10px;
+            box-shadow: 5px 5px blanchedalmond;
+        }
+        .List{
+            float: left;
+            list-style: none;
+            /**background-color: #0a0303;**/
+            margin: 12px 40px;
+            font-family: 'Signika Negative', sans-serif;
+            /**border: 2px solid black;**/
+            border-radius: 10px;
+        }
+        .List a{
+            text-decoration: none;
+            color: white;
+            
+            margin: 10px 22px;
+        }
+        
+
+        .navbar ul{
+            margin: 4px 20px;
+        }
+        .Primary{
+            border: 3px solid black;
+            border-radius: 10px;
+            float: right;
+            margin: 6px 100px;
+        }
+        .List:hover{
+            background-color: rgb(101, 114, 114);
+            cursor: pointer;
+        }
+
+        h1{
+            background-color: black;
+            color: white;
+            width: 800px;
+            height: 50px;
+            margin: 60px 280px;
+            padding-left: 110px;
+            padding-top: 20px;
+            border: 2px solid white;
+            border-radius: 10px;
+        box-shadow: 10px 10px 10px 10px blanchedalmond;
+        font-family: 'Josefin Sans', sans-serif;
+
+        }
+
+        .Secondary1{
+color: #ff1313;
+background-image: url(https://th.bing.com/th/id/OIP.NGv_oq3-pHt3sRFXw9d-ywHaKb?pid=ImgDet&rs=1);
+border: 7px solid black;
+border-radius: 10px;
+height: 500px;
+background-repeat: no-repeat;
+width: 600px;
+ background-position: center;
+ background-size: cover;
+ font-size: 30px;
+ font-weight: bold;
+margin-left: 55px;
+box-shadow: 15px 15px 15px 15px #5a5656;
+;}
+        .Secondary2{
+color: #ff1313;
+background-image: url(https://static.zerochan.net/Dragonite.full.1349289.jpg);
+border: 7px solid black;
+border-radius: 10px;
+height: 500px;
+background-repeat: no-repeat;
+width: 600px;
+ background-position: center;
+ background-size: cover;
+ font-size: 30px;
+ font-weight: bold;
+ float: right;
+ margin: -511px 60px;
+ box-shadow: 15px 15px 15px 15px #5a5656;
+
+        }
+        .Secondary3{
+            color: #ff1313;
+            background-image: url(https://wallpaperaccess.com/full/358862.jpg);
+            border: 7px solid black;
+            border-radius: 10px;
+            height: 600px;
+            background-repeat: no-repeat;
+            width: 900px;
+             background-position: center;
+             background-size: cover;
+             font-size: 30px;
+             font-weight: bold;
+             margin: 60px 270px;
+             box-shadow: 15px 15px 15px 15px #5a5656;
+            }
+        .Secondary4{
+            color: #ff1313;
+            background-image: url(https://cdn.wallpapersafari.com/43/63/y3EmnH.jpg);
+            border: 7px solid black;
+            border-radius: 10px;
+            height: 600px;
+            background-repeat: no-repeat;
+            width: 900px;
+             background-position: center;
+             background-size: cover;
+             font-size: 30px;
+             font-weight: bold;
+             margin: 60px 270px;
+             box-shadow: 15px 15px 15px 15px #5a5656;
+            }
+        .Secondary5{
+            color: black;
+            background-image: url(https://images4.alphacoders.com/648/thumb-1920-648582.jpg);
+            border: 7px solid black;
+            border-radius: 10px;
+            height: 500px;
+            background-repeat: no-repeat;
+            width: 600px;
+             background-position: center;
+             background-size: cover;
+             font-size: 30px;
+             font-weight: bold;
+             margin: 55px 70px;
+             box-shadow: 15px 15px 15px 15px #5a5656;
+            }
+        .Secondary6{
+            color: black;
+            background-image: url(https://wallpaper.dog/large/965171.jpg);
+            border: 7px solid black;
+            border-radius: 10px;
+            height: 500px;
+            background-repeat: no-repeat;
+            width: 600px;
+             background-position: center;
+             background-size: cover;
+             font-size: 30px;
+             font-weight: bold;
+             margin: -570px 800px;
+             box-shadow: 15px 15px 15px 15px #5a5656;
+            }
+            
+
+        .Secondary0{
+            color: white;
+            font-size: 39px;
+            font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+  
